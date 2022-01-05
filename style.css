@@ -45,9 +45,59 @@ section{
 section img{
     width:50%;
 }
-.second-part h2{
+h2{
      font-size: 40px;
-     margin-left:700px;
      text-align:center;
  }
+.second-part{
+    display:flex;
+    margin-left: 25%;
 
+ 
+}
+.illustration-1{
+
+    background-color: lightblue;
+    width:20%;
+    padding-left:2%;
+    border-radius: 10px;
+    margin-right: 20px;
+    
+}
+.illustration-1 img{
+    margin-left: 30px;
+}
+#mission-1{
+    padding-left: 20%;
+}
+.illustration-2{
+
+    background-color: lightpink;
+    width:20%;
+    height:30%;
+    padding-left:2%;
+    border-radius: 10px;
+    margin-right: 20px;
+    
+}
+.illustration-2 img{
+    margin-left: 30px;
+}
+#mission-2{
+    padding-left: 20%;
+}
+.illustration-3{
+
+    background-color: lightyellow;
+    width:20%;
+    padding-left:2%;
+    border-radius: 10px;
+    
+    
+}
+.illustration-3 img{
+    margin-left: 30px;
+}
+#mission-3{
+    padding-left:20%;
+}
