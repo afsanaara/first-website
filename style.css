@@ -5,9 +5,12 @@ h1{
     font-size: 50px;
     padding-left:20%;
     line-height:30px;
-    /* border-left: 4px solid red; */
     
-    
+        
+}
+.mission h1{
+    border-inline-start:4px solid tomato ;
+    border-image:linear-gradient(tomato);
 }
 p{
     width:40%;
@@ -23,7 +26,9 @@ p{
     background-image: linear-gradient(salmon,tomato);
     padding:15px 30px;
     border-radius: 8px;
-    margin-left: 190px;;
+    margin-left: 190px;
+    color:white;
+    font-weight: 500;
     
 }
 
@@ -40,5 +45,9 @@ section{
 section img{
     width:50%;
 }
- 
+.second-part h2{
+     font-size: 40px;
+     margin-left:700px;
+     text-align:center;
+ }
 
