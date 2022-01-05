@@ -1,0 +1,44 @@
+body{
+    font-family:'Times New Roman', Times, serif;
+}
+h1{
+    font-size: 50px;
+    padding-left:20%;
+    line-height:30px;
+    /* border-left: 4px solid red; */
+    
+    
+}
+p{
+    width:40%;
+    font-size:20px;
+    padding-left:20%;
+}
+
+.color{
+    color:orange;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(salmon,tomato);
+    padding:15px 30px;
+    border-radius: 8px;
+    margin-left: 190px;;
+    
+}
+
+.mission{
+    padding-top:150px;
+    
+    
+    
+}
+
+section{
+    display:flex;
+}
+section img{
+    width:50%;
+}
+ 
+
