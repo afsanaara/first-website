@@ -136,7 +136,7 @@ h2{
 
 }
 .third-part img{
-    width:60%;
+    width:80%;
     margin-left:90%;
     
 }
@@ -167,14 +167,15 @@ h2{
     display:flex;
     background-image: url(image/shape-1.png);
     background-repeat: no-repeat;
-    background-size: 5%;
-    background-position: 63.5%;
+    background-size:8%;
+    background-position: 64.8%;
     background-position-y:100%;
 }
 .fourth-part img{
-    width:23%;
+    width:30%;
     margin-left:8%;
-    margin-top:-12%;
+    margin-top: -10%;
+    
     
     
 }
