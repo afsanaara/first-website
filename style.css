@@ -1,18 +1,15 @@
 body{
     font-family:'Times New Roman', Times, serif;
 }
-h1{
+
+.mission h1{
     font-size: 50px;
     padding-left:20%;
     line-height:30px;
-    
-        
-}
-.mission h1{
     border-inline-start:4px solid tomato ;
     border-image:linear-gradient(tomato);
 }
-p{
+.mission p{
     width:40%;
     font-size:20px;
     padding-left:20%;
@@ -34,15 +31,13 @@ p{
 
 .mission{
     padding-top:150px;
-    
-    
-    
+      
 }
 
-section{
+.mission{
     display:flex;
 }
-section img{
+.mission img{
     width:50%;
 }
 h2{
@@ -51,53 +46,90 @@ h2{
  }
 .second-part{
     display:flex;
-    margin-left: 25%;
-
- 
+    margin-left:20%;
 }
-.illustration-1{
+.second-part img{
+    width:60%;
 
-    background-color: lightblue;
+}
+
+ .illustration-1{
+
+    background-color: rgb(222, 240, 247);
     width:20%;
-    padding-left:2%;
+    height:350px;
     border-radius: 10px;
     margin-right: 20px;
     
-}
-.illustration-1 img{
-    margin-left: 30px;
-}
+} 
+
 #mission-1{
-    padding-left: 20%;
+    padding-left: 5%;
 }
+.illustration-1 p{
+    width:80%;
+    padding-left:5%;
+    padding-right: 2%;
+    font-size:15px;
+    
+}
+
 .illustration-2{
 
-    background-color: lightpink;
+    background-color: rgb(255, 225, 229);
     width:20%;
-    height:30%;
-    padding-left:2%;
+    height:350px;
     border-radius: 10px;
     margin-right: 20px;
     
-}
-.illustration-2 img{
-    margin-left: 30px;
-}
+} 
+
 #mission-2{
-    padding-left: 20%;
+    padding-left: 5%;
+}
+.illustration-2 p{
+    width:80%;
+    padding-left:5%;
+    padding-right: 2%;
+    font-size:15px;
+    
 }
 .illustration-3{
 
-    background-color: lightyellow;
+    background-color: rgb(253, 253, 221);
     width:20%;
-    padding-left:2%;
+    height:350px;
     border-radius: 10px;
+    margin-right: 20px;
     
-    
-}
-.illustration-3 img{
-    margin-left: 30px;
-}
+} 
+
 #mission-3{
-    padding-left:20%;
+    padding-left: 5%;
+}
+.illustration-3 p{
+    width:80%;
+    padding-left:5%;
+    padding-right: 2%;
+    font-size:15px;
+    
+}
+.third-part{
+    display:flex;
+
+}
+.third-part img{
+    width:40%;
+    margin-left:20%;
+}
+.third-part h1{
+    font-size: 40px;
+    width: 80%;
+}
+.third-part p{
+    margin-right: 40%;
+    
+}
+.develop{
+    margin-left:0
 }
