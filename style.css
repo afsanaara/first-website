@@ -168,12 +168,12 @@ h2{
     background-image: url(image/shape-1.png);
     background-repeat: no-repeat;
     background-size:8%;
-    background-position: 64.8%;
+    background-position:70%;
     background-position-y:100%;
 }
 .fourth-part img{
     width:30%;
-    margin-left:8%;
+    margin-left:20%;
     margin-top: -10%;
     
     
@@ -218,18 +218,24 @@ footer h1{
 #title{
     text-align: center;
 }
-/* .fifth-part{
+.image{
+    width:100%;
+}
+.fifth-part{
     display: flex;
-    
-    
+}
+.fifth-part img{
+    width:80%;
+    padding-left:80%;
+    padding-top: 10%;
 }
 .fifth-part h1{
-    margin-left: 850px;
     font-size: 40px;
-}
-.hired{
-    /* margin-left:-15%; */
-    background-color: lightblue;
 
-    height:80%;
-} */
+}
+.corona{
+    padding-left: 20%;
+}
+.fifth-part p{
+    width: 60%;
+}
